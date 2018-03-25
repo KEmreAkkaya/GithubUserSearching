@@ -20,3 +20,7 @@ Secondly and lastly,I tested for LFI/RFI vulnerabilities on limited time.I think
 That's all!
 
 
+
+//Açıklama-1:Normalde Same Origin Policy ve Cross-Origin-Resource Sharing(CORS) sebebiyle veri çekmek için api.github.com/users üzerinden Ajax kullanarak yaptım .Yine bu işlemleri cross-domainin HTTP response'sinin 404 veya 200 OK durumuna bakarak yapılabilirdik.  
+
+//Açıklama-2:Veritabanına bağlanmak için Php ,node.js ve Ruby on Rails  kullanılabilir.
