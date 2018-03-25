@@ -15,7 +15,7 @@ When I tested my all files,I found some error.
 
 Firstly,I am used Github API(api.github.com/users) for searching user.Altough there isn't any user on Github,page alerts that user's page is found. Database of API find user's page but user isn't on Github.
 
-Secondly and lastly,I tested for LFI/RFI vulnerabilities on limited time.I think index.html includes this vulnerabilities .
+Secondly,I tested for command-injection on limited time.I think index.html includes this vulnerabilities .After I 
 
 That's all!
 
