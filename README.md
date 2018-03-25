@@ -9,7 +9,7 @@ Firstly , I created index.html for homepage.This page has point that user will m
 
 Secondly,I created error.html for error message.After I created CSS file for homepage and error page .
 
-Thirdly,I created Redirect() function in JavaScript file for button in index.html .If you press the button,page will redirect user's page on Github or error page.So, add() function in JavaScript file stored your searching user in localStorage.If you want to see searched user,You must enter F12> Application>Storage >Local Storage in Chrome Browser .For IE Edge, You must enter same thing.Other required comments are in JS and HTML page.
+Thirdly,I created Redirect() function in JavaScript file for button in index.html .If you press the button,page will redirect user's page on Github or error page.So, add() function in JavaScript file stored your searching user in localStorage.If you want to see searched user,You must enter F12> Application>Storage >Local Storage in Chrome Browser .For IE Edge, You must enter same thing.Other required comments are in JS and HTML pages.
 
 When I tested my all files,I found some error .
 Firstly,I am used Github API(api.github.com/users) for searching user.Altough there isn't any user on Github,page alerts that user's page is found. Database of API find user's page but user isn't on Github.
