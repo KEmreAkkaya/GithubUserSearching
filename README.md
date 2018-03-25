@@ -15,7 +15,7 @@ When I tested my all files,I found some error.
 
 Firstly,I am used Github API(api.github.com/users) for searching user.Altough there isn't any user on Github,page alerts that user's page is found. Database of API find user's page but user isn't on Github.
 
-Secondly,I tested for CSRF vulnerabilities on limited time.I think index.html includes this vulnerabilities .After I didn't use cookie etc.So,I didn't use XSS,SQL Injection,LFI/RFI,Command Injection,Path Traversal etc. to test.
+Secondly,I tested for CSRF vulnerabilities on limited time.I think index.html includes this vulnerabilities .After I didn't use cookie,php,aspx etc.So,I didn't use XSS,SQL Injection,LFI/RFI,Command Injection,Path Traversal etc. to test.
 
 That's all!
 
